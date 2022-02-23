@@ -1,4 +1,4 @@
-#  Netflix UI
+
 ## Recreating the Netflix interface using HTML5, CSS3, JavaScript and JQuery plugins.
 ## Project developed through the Digital Innovation One Bootcamp.
 
